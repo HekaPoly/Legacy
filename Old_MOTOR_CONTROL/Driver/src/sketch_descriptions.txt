@@ -1,0 +1,9 @@
+elctrodesRead : Lecture d'une electrode sur le bicep pour controller un le moteur
+elctrodesRead_2 : Lecture d'une electrode sur le bicep pour controller un le moteur
+
+motorController_main : 
+motorController_master : Send a command to the motor
+motorController_slave : 
+motorTest : To test a motor
+
+oldSketches : Older sketches, not useful anymore
